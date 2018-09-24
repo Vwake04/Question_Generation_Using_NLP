@@ -1,3 +1,2 @@
 Generating questiong from factual text using NLP.
-First blanks were created.
-Generation of blanks for factual terms from the sentences.
+In this project firstly blanks of factual terms from the sentences were created. 
